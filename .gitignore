@@ -2,5 +2,5 @@
 *.orig
 nbproject/
 /demo/vendor/
-/demo/vendor/composer.lock
+/demo/composer.lock
 
