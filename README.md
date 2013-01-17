@@ -20,3 +20,5 @@ Usage
     echo "unlocking the padlock...\n";
     $padlock->unlock();
     echo "padlock - is locked: ".($padlock->isLocked() ? 'true' : 'false')."\n";
+
+Switch do 'demo' branch if you want to see the demo
