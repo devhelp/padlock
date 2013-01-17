@@ -1,4 +1,6 @@
 *~
 *.orig
 nbproject/
-vendor/
+/demo/vendor/
+/demo/vendor/composer.lock
+
